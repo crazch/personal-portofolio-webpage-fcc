@@ -1,7 +1,7 @@
 # Personal Portfolio Webpage – FreeCodeCamp Responsive Web Design
 
 🧩 **Project Type:** Personal Portfolio Site  
-🎓 **Part of:** [freeCodeCamp Certification](https://www.freecodecamp.org/learn/responsive-web-design/)  
+🎓 **Part of:** [freeCodeCamp Certification](https://www.freecodecamp.org/learn/2022/responsive-web-design/)  
 🔨 **Built with:** HTML, CSS, Flexbox  
 🚀 **Live Demo:** [View here](https://crazch.github.io/personal-portofolio-webpage-fcc/)
 
